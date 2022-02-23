@@ -2,6 +2,9 @@
 
 Pada bagian ini saya mempelajari apa itu Git.
 Saya mencoba membuat branch develop.
+Saya mencoba membuat branch develop.
+Saya mencoba membuat branch develop.
+Saya mencoba membuat branch develop.
 
 ...
 ...
